@@ -29,3 +29,6 @@ my_layout = {
     'xaxis': {'title': 'Repository'},
     'yaxis': {'title': 'Stars'},
 }
+
+fig = {'data': data, 'layout': my_layout}
+offline.plot(fig, filename='python_repos.html')
