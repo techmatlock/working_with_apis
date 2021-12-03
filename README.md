@@ -7,5 +7,7 @@ The first project, python_repos_visual.py looks at the popularity of Python proj
 
 # Sources
 https://api.github.com/search/repositories?q=language:python&sort=stars
+
 https://developer.github.com/v3/
+
 https://hacker-news.firebaseio.com/v0/topstories.json
